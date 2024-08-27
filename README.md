@@ -55,6 +55,7 @@ Example:
 
 ```
 python main.py example1
+rye run python -m src.llm_as_a_judge.main example1
 ```
 
 
